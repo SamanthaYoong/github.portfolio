@@ -22,7 +22,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](assets/1-anietie-etuk-data-analytics-car-project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -31,7 +31,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](assets/1-anietie-etuk-data-analytics-car-project.jpeg)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
@@ -39,7 +39,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](assets/1-anietie-etuk-data-analytics-car-project.jpeg)
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
