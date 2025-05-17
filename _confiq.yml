@@ -1,3 +1,5 @@
-title: Samantha Yoong
-logo: google-analytics-certification.png
-theme: jekyll-theme-minimal
+your-repo/
+├── _config.yml
+├── google-analytics-certification.png
+├── README.md
+└── index.md (or other content files)
