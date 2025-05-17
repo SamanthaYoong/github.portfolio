@@ -1,5 +1,5 @@
-your-repo/
-├── _config.yml
-├── google-analytics-certification.png
-├── README.md
-└── index.md (or other content files)
+title: Samantha Yoong
+logo: /google-analytics-certification.png # Absolute path from root
+remote_theme: pages-themes/minimal@v0.2.0 # Use a GitHub-supported theme
+plugins:
+  - jekyll-remote-theme # Required for remote themes
